@@ -1,0 +1,5 @@
+[18:56:19] Smurfurf[/66.66.205.221:61525] logged in with entity id 102 at (161.71843537819805, 63.0, -694.8378879444476)
+[19:35:22] [Server] Hows things look? 
+[19:35:33] <Smurfurf> water is weird under stairs
+[19:35:43] [Server] Sounds like Minecraft
+[19:36:08] <Smurfurf> squids ink... a lot
